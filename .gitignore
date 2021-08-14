@@ -1,4 +1,3 @@
-/packages/cli/node_modules
-/packages/local-api/node_modules
-/packages/local-client/node_modules
-/packages/local-client/build
+build
+dist
+node_modules
